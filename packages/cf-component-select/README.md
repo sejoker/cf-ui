@@ -65,3 +65,13 @@ Or both!
 ```js
 <Select searchable multi .../>
 ```
+
+Async and Creatable are also supported
+
+```js
+<Select async .../>
+```
+
+```js
+<Select creatable .../>
+```
